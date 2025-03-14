@@ -1,0 +1,31 @@
+_repo: Spectacle-secrets_75415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cox, George (Optician)
+    gutenberg_agent_id: '57985'
+    url: http://www.gutenberg.org/2009/agents/57985
+description: ''
+edition_note: Second edition.
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75415'
+language: en
+pgterms:marc904: https://archive.org/details/b31911778
+pgterms:marc905: 20240105094320cox
+pgterms:marc906: '1844'
+pgterms:marc907: GB
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bGeorge Cox, $c1844.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eyeglasses'
+- !lcc 'RE'
+- GITenberg
+title: Spectacle secrets
+url: http://www.gutenberg.org/ebooks/75415
