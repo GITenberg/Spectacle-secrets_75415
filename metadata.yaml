@@ -1,11 +1,16 @@
 _repo: Spectacle-secrets_75415
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75415-h/images/cover.jpg
 creator:
   author:
     agent_name: Cox, George (Optician)
     gutenberg_agent_id: '57985'
     url: http://www.gutenberg.org/2009/agents/57985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75415#Spectacle-secrets
 edition_note: Second edition.
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
